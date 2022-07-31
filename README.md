@@ -3,6 +3,7 @@
  There are 5 rounds in a game. In each round, each player rolls the two dice. 
  
  The rules are: 
+ 
  • The points rolled on each player’s dice are added to their score. 
  
  • If the total is an even number, an additional 10 points are added to their score. 
